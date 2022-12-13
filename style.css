@@ -114,6 +114,11 @@ p {
   text-align: left;
   line-height: 1.5;
 }
+
+.contact {
+  margin: 20px;
+}
+
 @media (max-width: 575px) {
   .mainpage-images {
     display: none;
